@@ -128,4 +128,4 @@ Note: Build can take upto 20-30 minutes. Please wait for it to finish.
 - Advanced emotional sentiment analysis
 - Improve summarization and aggregation of multiple responses
 
-Made with love 💕by shiveshwar
+Made with love 💕by Shiveshwar and Jaidev
